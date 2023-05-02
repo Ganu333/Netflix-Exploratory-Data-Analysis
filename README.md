@@ -8,5 +8,14 @@
 
 * Before analyzing the data the quality of the data has been checked. 
 * Python Programming language and their labraries like pandas , numpay, matplotlib , seaborn.
-* Doing visualization with th help of matplotlib and seaborn
+* Doing visualization with th help of matplotlib and seaborn.
 * The main purpose of EDA is to help look at data before making any assumptions.
+
+
+# Data Exploration Result
+* there are Two type of content Movies & Tvshows from that  Movies are 69.7% & Tv show are 30.3%. Movies more than Tvshows.
+* From the total movies highest number of movies directed by the Rajiv Chilaka.
+* Top 5 Country of which most amount of content on netflix are United States, India, United Kingdom, Japan, South Korea.
+* Indian actor - Anupam Kher has most no of content on Netflix.  
+* Here we see that the Frequence of Movies is more than the Tv shows from 2010 to 2020.
+* In 2021 the count of Tv shows surpasses the count of movies.
