@@ -7,8 +7,8 @@
 * The Netflix dataset consist of 11 columns and 8807 rows. Some of the columns are Movies type, Title, Director, Cast, Release_year, Country, Rating, Duration ,Description etc.
 
 * Before analyzing the data the quality of the data has been checked. 
-* Python Programming language and their labraries like pandas , numpay, matplotlib , seaborn.
-* Doing visualization with th help of matplotlib and seaborn.
+* Used Python Programming language and their labraries like pandas , numpay, matplotlib , seaborn.
+* For visualization with th help of matplotlib and seaborn.
 * The main purpose of EDA is to help look at data before making any assumptions.
 
 
